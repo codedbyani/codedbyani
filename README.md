@@ -21,3 +21,13 @@ const Ani = {
   tools: ['Docker', 'Git', 'VS Code', 'Postman', 'Jest'],
   funFact: "I debug 3x faster with coffee ☕"
 }
+
+🛠️ Tech Stack
+🖥️ Frontend
+<p> <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,redux,vite,webpack" alt="Frontend Tech Stack"/> </p>
+🔧 Backend
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,javascript,typescript,jest" alt="Backend Tech Stack"/> </p>
+🗄️ Databases
+<p> <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite" alt="Database Tech Stack"/> </p>
+🧪 Tools & Platforms
+<p> <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,vercel,figma" alt="Dev Tools"/> </p>
