@@ -14,6 +14,5 @@ const Ani = {
   funFact: "I debug 3x faster with coffee ☕"
 }
 
-<p align="left">
-  https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png
-</p>
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png
+
