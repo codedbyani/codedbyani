@@ -8,7 +8,7 @@
 
 ```js
 const Ani = {
-  frontend: ['React', 'Next.js', 'Redux', 'Tailwind', 'Vite', 'Webpack'],
+  frontend: ['React', 'Next.js', 'Angular.js', 'Tailwind', 'Vue.js'],
   backend: ['Node.js', 'Express', 'NestJS'],
   databases: ['PostgreSQL', 'MySQL', 'MongoDB', 'Redis', 'SQLite'],
   funFact: "I debug 3x faster with coffee ☕"
