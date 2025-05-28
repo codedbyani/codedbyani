@@ -4,7 +4,7 @@
 🧠 Problem Solver | 🎯 Tech Enthusiast  
 ☕ Debugging pro with 5+ years of experience
 
-## 🧑‍💻 About Me
+## About Me
 
 ```js
 const Ani = {
